@@ -13,12 +13,8 @@ from IPython.display import HTML
 import ipywidgets as widgets
 from IPython.display import display, clear_output
 from flask import Flask, render_template_string
-import pandas as pd
 
 app = Flask(__name__)
-
-import pandas as pd
-from IPython.display import display  # Import the display function
 
 # Sample DataFrame setup (please replace this with your actual DataFrame)
 watch_data = {
