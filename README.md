@@ -36,7 +36,7 @@ python app.py
 
 ## Authors
 
-- Your Name - Initial work - YourUsername
+- Moh Jaiswal
 
 ## License
 
